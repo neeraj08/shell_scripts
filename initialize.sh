@@ -1,4 +1,4 @@
-#Newly installed Ubuntu? Dont want t o go through the headache of installing all your again ?
+#Newly installed Ubuntu? Dont want to go through the headache of installing all your again ?
 #Just run this bash script as:
 #sudo bash initialize.sh
 #Of course this is personalized for me. You may comment any stuff you son't want to install or add any for your personalized script. :)
