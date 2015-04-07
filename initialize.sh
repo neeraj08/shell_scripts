@@ -1,7 +1,7 @@
 #Newly installed Ubuntu? Dont want to go through the headache of installing all your again ?
 #Just run this bash script as:
 #sudo bash initialize.sh
-#Of course this is personalized for me. You may comment any stuff you son't want to install or add any for your personalized script. :)
+#Of course this is personalized for me. You may comment any stuff you don't want to install or add any for your personalized script. :)
 
 #---script starts---
 #remove these softwares
