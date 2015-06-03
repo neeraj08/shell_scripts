@@ -1,4 +1,4 @@
-#Newly installed Ubuntu? Dont want to go through the headache of installing all your again ?
+#Newly installed Ubuntu? Dont want to go through the headache of installing all your software packages again ?
 #Just run this bash script as:
 #sudo bash initialize.sh
 #Of course this is personalized for me. You may comment any stuff you don't want to install or add any for your personalized script. :)
@@ -16,7 +16,7 @@ apt-get purge rhythmbox
 #add-apt-repository ppa:webupd8team/atom
 #add-apt-repository ppa:linrunner/tlp  # To install tlp to improve battery life and reduce overheating
 #install these softwares quietly(non interactively) defaulting y(es) at all prompts
-apt-get install apt-fast  # it's faster than aot-get
+apt-get install apt-fast  # it's faster than apt-get
 apt-fast -q -y install rar
 apt-fast -q -y install p7zip
 apt-fast -q -y install g++
