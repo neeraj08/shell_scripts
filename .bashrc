@@ -14,7 +14,6 @@ alias pdw=pwd
 PATH=$PATH:/usr/local/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/Users/nlakhotia/Downloads/gradle-2.4/bin:/usr/local/mysql/bin/:/usr/local/sbin:/usr/local/opt/zookeeper/bin:"/Users/nlakhotia/Downloads/Applications files/apache-storm-0.9.5/bin"
 #/usr/local/mysql/support-files/mysql.server start # start mysql server
 
-export INDIGO_HOME=/Users/nlakhotia/indigo
 export JRE_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre
 
 #hadoop default config
